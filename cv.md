@@ -37,7 +37,6 @@ function multiply(a, b){
     - JavaScript
     - React
 
-
 ## Languages:
 
 - Russian - Native
