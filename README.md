@@ -1,1 +1,1 @@
-# rsschool-cv
+ghttps://zoytik.github.io/rsschool-cv/cv
